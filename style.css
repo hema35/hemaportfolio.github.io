@@ -143,5 +143,14 @@ img {
     width: 100%;
 }
 
+.vid {
+    padding-top: 20px;
+}
+
+
 /*PROJECT*/
 /* .card-custom .card-custom */
+.wrapper {
+    display: grid;
+    gap: 20px;
+}
