@@ -6,7 +6,7 @@ I am a front-end developer.
 I developed this portfolio using HTML, CSS, Bootstrap.I used font-awesome.
 [My portfolio can be viewed here:](https://hema35.github.io/hemaportfolio.github.io/)
 
-# How to Run Roadmap:
+# How to Run:
 To clone and run this application, you must install GIT on your machine.
 
 Go to the repository and copy the link of the repo.
@@ -17,7 +17,7 @@ Clone this repository: Type - $ git clone repo name
 
 Press Enter to create your local clone
 
-# Future Improvements:
+# Roadmap of Future Improvements:
  In the future, I am planning to add many projects to my portfolio.
 
  # License:
